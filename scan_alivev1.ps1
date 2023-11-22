@@ -1,4 +1,8 @@
-﻿#Escaneo de equipos activos en la subred
+#
+## Alumno: Hernán Bocanegra García 1851986 
+## Laboratorio para Ciberseguridad 
+#
+#Escaneo de equipos activos en la subred
 #
 #Determinando gateway
 $subred = (Get-NetRoute -DestinationPrefix 0.0.0.0/0).NextHop
