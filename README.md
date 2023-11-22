@@ -36,9 +36,8 @@ Se usó para poder extraer información de sitios web de una forma más automát
 ## Escáner de puertos
 Es para poder verificar qué puertos están abiertos en prácticamente cualquier dirección IP que uno ingrese, además de utilizar otros parámetros o argumentos.
 
-### NOTA ESPECIAL
-Se recomienda volver a seleccionar "README.md", antes de cambiar de rama o "Branch", para evitar errores en el repositorio o página de GitHub :)
-
 ## Envío de correos
 El poder envíar correos, ya sea hacía una dirección de correo electrónico o varias, para poder ser más fácil e incluso hacerlo más eficiente y eficaz.
 
+### NOTA ESPECIAL
+Se recomienda volver a seleccionar "README.md", antes de cambiar de rama o "Branch", para evitar errores en el repositorio o página de GitHub :)
